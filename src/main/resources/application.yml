@@ -19,4 +19,4 @@ eureka:
         leaseRenewalIntervalInSeconds: 1
         leaseExpirationDurationInSeconds: 2
 server:
-    port: 6660
+    port: 6663
