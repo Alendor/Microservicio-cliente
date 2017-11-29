@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 class ClientCLR implements CommandLineRunner {
-
+ 
     @Autowired
     private ClientRepository clientRepository;
 
